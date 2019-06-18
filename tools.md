@@ -1,3 +1,5 @@
+[Best Python Libraries/Packages for Finance and Financial Data Scientists](https://financetrain.com/best-python-librariespackages-finance-financial-data-scientists/)
+
 curated list of machine learning framework/tools
 
 - Tensorflow
