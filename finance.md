@@ -9,3 +9,7 @@
 - [Skewness and Kurtosis](https://www.evestment.com/resources/investment-statistics-guide/assessing-skewness-and-kurtosis-in-the-returns-distribution/)
 - [Are the Skewness and Kurtosis Useful Statistics?](https://www.spcforexcel.com/knowledge/basic-statistics/are-skewness-and-kurtosis-useful-statistics)
 - [Measuring portfolio skewness](https://core.ac.uk/download/pdf/4834498.pdf)
+
+## Terms
+- [Skewness](https://www.investopedia.com/terms/s/skewness.asp)
+- [Kurtosis](https://www.investopedia.com/terms/k/kurtosis.asp)
